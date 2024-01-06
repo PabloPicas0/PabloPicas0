@@ -22,5 +22,3 @@ const pablo = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPicas0&layout=donut)](https://github.com/PabloPicas0/github-readme-stats)
